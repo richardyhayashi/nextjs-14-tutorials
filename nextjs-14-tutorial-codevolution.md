@@ -7,9 +7,9 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 
 01. Introduction
 02. Hello World
-03.
-04.
-05.
+03. Project Structure
+04. Before We Start
+05. Routing
 06.
 07.
 08.
@@ -40,3 +40,10 @@ Notes:
 ### Run NextJS App
 
 `$ npm run dev`
+
+## NextJS
+
+React Server Components (RSC)
+
+* Server Components
+* Client Components
