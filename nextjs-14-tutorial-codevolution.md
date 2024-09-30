@@ -10,7 +10,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 03. Project Structure
 04. Before We Start
 05. Routing
-06.
+06. Nested Routes
 07.
 08.
 09.
