@@ -13,7 +13,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 06. Nested Routes
 07. Dynamic Routes
 08. Nested Dynamic Routes
-09.
+09. Catch all Segments
 10.
 11.
 12.
