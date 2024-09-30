@@ -6,7 +6,7 @@ YouTube: `https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnr
 Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 
 01. Introduction
-02.
+02. Hello World
 03.
 04.
 05.
@@ -25,3 +25,18 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 18.
 19.
 20.
+
+
+Notes:
+
+## Application
+
+### Create NextJS App
+
+`$ npx create-next-app@latest .`
+
+* TypeScript: yes, ESLint: yes, Tailwind CSS: yes, `src/`: yes, App Router: yes, Customize import alias: no
+
+### Run NextJS App
+
+`$ npm run dev`
