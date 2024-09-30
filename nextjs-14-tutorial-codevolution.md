@@ -11,7 +11,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 04. Before We Start
 05. Routing
 06. Nested Routes
-07.
+07. Dynamic Routes
 08.
 09.
 10.
@@ -25,6 +25,16 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 18.
 19.
 20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
 
 
 Notes:
