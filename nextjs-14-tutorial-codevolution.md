@@ -18,7 +18,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 11. File Colocation
 12. Private Folders
 13. Route Groups
-14.
+14. Layouts
 15.
 16.
 17.
