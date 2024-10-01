@@ -30,8 +30,8 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 23. Loading UI
 24. Error Handling
 25. Recovering from Errors
-26.
-27.
+26. Handling Errors in Nested Routes
+27. Handling Errors in Layouts
 28.
 29.
 30.
