@@ -35,7 +35,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 28. Parallel Routes
 29. Unmatched Routes
 30. Conditional Routes
-31.
+31. Intercepting Routes
 32.
 33.
 34.
