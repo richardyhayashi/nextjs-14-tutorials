@@ -34,7 +34,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 27. Handling Errors in Layouts
 28. Parallel Routes
 29. Unmatched Routes
-30.
+30. Conditional Routes
 31.
 32.
 33.
