@@ -27,7 +27,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 20. Active Links
 21. Navigating Programmatically
 22. Templates
-23.
+23. Loading UI
 24.
 25.
 26.
@@ -87,3 +87,11 @@ N.B.: Cannot access in browser.
 ### Layouts vs Templates
 
 ???
+
+### Special Files
+
+* page.tsx
+* layout.tsx
+* template.tsx
+* not-found.ysx
+* loading.tsx
