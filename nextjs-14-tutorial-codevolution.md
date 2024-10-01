@@ -33,7 +33,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 26. Handling Errors in Nested Routes
 27. Handling Errors in Layouts
 28. Parallel Routes
-29.
+29. Unmatched Routes
 30.
 31.
 32.
