@@ -17,7 +17,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 10. Not Found Page
 11. File Colocation
 12. Private Folders
-13.
+13. Route Groups
 14.
 15.
 16.
@@ -69,3 +69,7 @@ React Server Components (RSC)
 
 N.B.: Cannot access in browser.
 * replace '_' with %5F to allow underscore in the URL.
+
+### Route Groups
+
+`(admin)`
