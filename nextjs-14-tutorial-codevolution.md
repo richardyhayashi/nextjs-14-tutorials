@@ -15,7 +15,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 08. Nested Dynamic Routes
 09. Catch all Segments
 10. Not Found Page
-11.
+11. File Colocation
 12.
 13.
 14.
@@ -57,3 +57,8 @@ React Server Components (RSC)
 
 * Server Components
 * Client Components
+
+### Colocation
+
+1. In the same directory in 'app/' not named page.tsx.
+2. Or in the components directory in 'components/'. 
