@@ -25,7 +25,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 18. title Metadata
 19. Link Component Navigation
 20. Active Links
-21.
+21. Navigating Programmatically
 22.
 23.
 24.
