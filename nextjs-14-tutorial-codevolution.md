@@ -16,7 +16,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 09. Catch all Segments
 10. Not Found Page
 11. File Colocation
-12.
+12. Private Folders
 13.
 14.
 15.
@@ -61,4 +61,11 @@ React Server Components (RSC)
 ### Colocation
 
 1. In the same directory in 'app/' not named page.tsx.
-2. Or in the components directory in 'components/'. 
+2. Or in the components directory in 'components/'.
+
+### Private Folders
+
+`_private-folder`
+
+N.B.: Cannot access in browser.
+* replace '_' with %5F to allow underscore in the URL.
