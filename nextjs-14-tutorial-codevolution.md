@@ -22,7 +22,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 15. Nested Layouts
 16. Route Group Layout
 17. Routing Metadata
-18.
+18. title Metadata
 19.
 20.
 21.
