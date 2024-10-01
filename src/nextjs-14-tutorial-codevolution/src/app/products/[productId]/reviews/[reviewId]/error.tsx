@@ -3,11 +3,18 @@
 import React from 'react';
 
 const ErrorBoundary = ({
-  error
+  error,
+  reset,
 }: {
-  error: Error 
+  error: Error;
+  reset: () => void;
 }) => {
-  return <div>{error.message}</div>;
+  return (
+    <div>
+      {error.message}
+      <button onClick={reset}>Try again</button>
+    </div>
+  );
 };
 
 export default ErrorBoundary;

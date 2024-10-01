@@ -29,7 +29,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 22. Templates
 23. Loading UI
 24. Error Handling
-25.
+25. Recovering from Errors
 26.
 27.
 28.
