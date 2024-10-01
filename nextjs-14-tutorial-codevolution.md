@@ -26,7 +26,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 19. Link Component Navigation
 20. Active Links
 21. Navigating Programmatically
-22.
+22. Templates
 23.
 24.
 25.
@@ -35,6 +35,16 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 28.
 29.
 30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39
+40.
 
 
 Notes:
@@ -73,3 +83,7 @@ N.B.: Cannot access in browser.
 ### Route Groups
 
 `(admin)`
+
+### Layouts vs Templates
+
+???
