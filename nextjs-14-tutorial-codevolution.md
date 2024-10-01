@@ -32,7 +32,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 25. Recovering from Errors
 26. Handling Errors in Nested Routes
 27. Handling Errors in Layouts
-28.
+28. Parallel Routes
 29.
 30.
 31.
