@@ -19,7 +19,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 12. Private Folders
 13. Route Groups
 14. Layouts
-15.
+15. Nested Layouts
 16.
 17.
 18.
