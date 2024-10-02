@@ -37,7 +37,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 30. Conditional Routes
 31. Intercepting Routes
 32. Parallel Intercepting Routes
-33.
+33. Route Handlers
 34.
 35.
 36.
