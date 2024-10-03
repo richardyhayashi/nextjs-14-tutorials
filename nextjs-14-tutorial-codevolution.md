@@ -44,7 +44,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 37. Handling PATCH Request
 38. Handling DELETE Request
 39. URL Query Parameters
-40.
+40. Redirects in Route Handlers
 41.
 42.
 43.
