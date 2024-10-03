@@ -47,7 +47,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 40. Redirects in Route Handlers
 41. Headers in Route Handlers
 42. Cookies in Route Handlers
-43.
+43. Caching in Route Handlers
 44.
 45.
 46.

@@ -3,9 +3,9 @@
 import React from 'react';
 import { notFound } from 'next/navigation';
 
-const getRandomInt = (count: number) => {
+/*const getRandomInt = (count: number) => {
   return Math.floor(Math.random() * count);
-};
+};*/
 
 const ReviewDetail = ({
   params,
