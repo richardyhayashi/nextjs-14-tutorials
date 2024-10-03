@@ -45,7 +45,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 38. Handling DELETE Request
 39. URL Query Parameters
 40. Redirects in Route Handlers
-41.
+41. Headers in Route Handlers
 42.
 43.
 44.
