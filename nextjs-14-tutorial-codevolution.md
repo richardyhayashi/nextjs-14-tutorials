@@ -48,7 +48,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 41. Headers in Route Handlers
 42. Cookies in Route Handlers
 43. Caching in Route Handlers
-44.
+44. Middleware
 45.
 46.
 47.
@@ -106,3 +106,14 @@ N.B.: Cannot access in browser.
 * loading.tsx
 * not-found.tsx
 * page.tsx
+
+### Routing
+
+* Route definition
+* Pages & Layouts
+* Dynamic Routes
+* Route Groups
+* Linking & Navigation
+* Handling errors in routes
+* Parallel & Intercepting routes
+* Route handlers & middleware
