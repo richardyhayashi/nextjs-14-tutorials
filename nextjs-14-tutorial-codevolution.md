@@ -40,7 +40,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 33. Route Handlers
 34. Handling GET Request
 35. Handling POST Request
-36.
+36. Dynamic Route Handlers
 37.
 38.
 39
