@@ -1,5 +1,7 @@
 # Files
 .env
+
+# typescript
 next-env.d.ts
 
 # Folders
