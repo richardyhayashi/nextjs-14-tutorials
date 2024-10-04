@@ -1,5 +1,7 @@
 # Files
 .env
+next-env.d.ts
 
 # Folders
+.next/
 node_modules/

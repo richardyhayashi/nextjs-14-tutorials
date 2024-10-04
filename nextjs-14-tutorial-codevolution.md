@@ -55,7 +55,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 48. Suspense for SSR
 49. React Server Components (RSC)
 50. Server and Client Components
-51.
+51. RSC Rendering Lifecycle
 52.
 53.
 54.
