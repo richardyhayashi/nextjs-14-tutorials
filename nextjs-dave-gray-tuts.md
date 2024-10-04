@@ -17,4 +17,5 @@ Source: 'https://github.com/gitdagray/nextjs-modal-intercepting-routes'
 
 ### Install Shadcn UI
 
-`$ npx shadcn-ui@latest init`
+`$ npx shadcn@latest init`
+`$ npx shadcn@latest add dialog`
