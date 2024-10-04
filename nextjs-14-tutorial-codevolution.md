@@ -49,12 +49,23 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 42. Cookies in Route Handlers
 43. Caching in Route Handlers
 44. Middleware
-45.
-46.
-47.
-48.
-49.
-50.
+45. Rendering
+46. Client-side Rendering (CSR)
+47. Server-side Rendering (SSR)
+48. Suspense for SSR
+49. React Server Components (RSC)
+50. Server and Client Components
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+
 
 
 Notes:

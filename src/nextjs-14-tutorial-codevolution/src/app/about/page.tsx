@@ -1,11 +1,9 @@
-export const metadata = {
-  title: "About Codevoluion",
-};
+const AboutPage = () => {
+  console.log("About server component.");
 
-const About = () => {
   return (
-    <h1>About Me</h1>
+    <h1>About Page</h1>
   );
 }
 
-export default About;
+export default AboutPage;
